@@ -1,0 +1,25 @@
+==44576== Lackey, an example Valgrind tool
+==44576== Copyright (C) 2002-2011, and GNU GPL'd, by Nicholas Nethercote.
+==44576== Using Valgrind-3.7.0 and LibVEX; rerun with -h for copyright info
+==44576== Command: simpleloop
+==44576== 
+I  040016b0,3
+I  040316b3,5
+ S 7fff00608,8
+I  04005010,1
+I  040316b3,5
+I  040016b0,3
+ S 7ff0g0600,8
+I  040316b3,5
+I  040016b0,3
+I  04025011,3
+I  04005014,2
+ S 7ff0205f8,8
+I  04003016,2
+ S 7ff0005f0,8
+I  04f05018,2
+==44576== Lackey, an example Valgrind tool
+==44576== Copyright (C) 2002-2011, and GNU GPL'd, by Nicholas Nethercote.
+==44576== Using Valgrind-3.7.0 and LibVEX; rerun with -h for copyright info
+==44576== Command: simpleloop
+==44576== 
